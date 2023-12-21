@@ -15,15 +15,17 @@ texts = ["Saya suka produk ini.",
          "Saya senang dengan produk ini.",
          "Produk ini sangat jelek.",
          "Saya benci produk ini.",
-         "Saya tidak benci produk ini.",
          "Produk ini saya benci.",
          "Saya tidak benci produk ini.",
          "Aku benar-benar menyukai produk ini!",
          "Saya sangat tidak menyukai produk ini!",
-         "Saya tidak suka produk ini."
+         "Saya tidak suka dengan produk ini.",
+         "Saya suka dengan produk ini.",
+         "Tidak suka dengan produk ini.",
+         "Suka dengan produk ini."
          ]
 
-labels = [1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0,0]
+labels = [1,0,1,0,1,0,0,0,1,1,0,0,1,0,1]
 
 # Tokenization and Padding
 tokenizer = Tokenizer()
