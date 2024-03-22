@@ -1,0 +1,99 @@
+[
+  {
+    "question": "hi, how are you doing?",
+    "answer": "i'm fine. how about yourself?"
+  },
+  {
+    "question": "i'm fine. how about yourself?",
+    "answer": "i'm pretty good. thanks for asking."
+  },
+  {
+    "question": "i'm pretty good. thanks for asking.",
+    "answer": "no problem. so how have you been?"
+  },
+  {
+    "question": "no problem. so how have you been?",
+    "answer": "i've been great. what about you?"
+  },
+  {
+    "question": "i've been great. what about you?",
+    "answer": "i've been good. i'm in school right now."
+  },
+  {
+    "question": "i've been good. i'm in school right now.",
+    "answer": "what school do you go to?"
+  },
+  {
+    "question": "what school do you go to?",
+    "answer": "i go to pcc"
+  },
+  {
+    "question": "i go to pcc",
+    "answer": "do you like it there?"
+  },
+  {
+    "question": "do you like it there?",
+    "answer": "it's okay. it's a really big campus."
+  },
+  {
+    "question": "it's okay. it's a really big campus.",
+    "answer": "good luck with school."
+  },
+  {
+    "question": "good luck with school.",
+    "answer": "thank you very much."
+  },
+  {
+    "question": "how's it going?",
+    "answer": "i'm doing well. how about you?"
+  },
+  {
+    "question": "i'm doing well. how about you?",
+    "answer": "never better, thanks."
+  },
+  {
+    "question": "never better, thanks.",
+    "answer": "so how have you been lately?"
+  },
+  {
+    "question": "so how have you been lately?",
+    "answer": "i've actually been pretty good. you?"
+  },
+  {
+    "question": "i've actually been pretty good. you?",
+    "answer": "i'm actually in school right now."
+  },
+  {
+    "question": "i'm actually in school right now.",
+    "answer": "which school do you attend?"
+  },
+  {
+    "question": "which school do you attend?",
+    "answer": "i'm attending pcc right now."
+  },
+  {
+    "question": "i'm attending pcc right now.",
+    "answer": "are you enjoying it there?"
+  },
+  {
+    "question": "are you enjoying it there?",
+    "answer": "it's not bad. there are a lot of people there."
+  },
+  {
+    "question": "it's not bad. there are a lot of people there.",
+    "answer": "good luck with that."
+  },
+  {
+    "question": "good luck with that.",
+    "answer": "thanks."
+  },
+
+
+
+
+
+  {
+    "question": "how are you doing today?",
+    "answer": "i'm doing great. what about you?"
+  }
+]
